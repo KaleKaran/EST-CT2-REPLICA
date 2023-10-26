@@ -8,6 +8,12 @@ This a Python based project, in which I have made a program that would read the 
 
 3.Install the necessary dependencies: pip install -r requirements.txt  
 
+      =-=-=-=-=-OR-=-=-=-=-=
+      
+1.Download the repo as zip file, then extract in you local system
+
+2.Install the necessary dependencies: pip install -r requirements.txt
+
 ## Guide
 If you want to Run a quick test you can run: 20_Q TEST_UI_Ver.py  
 
