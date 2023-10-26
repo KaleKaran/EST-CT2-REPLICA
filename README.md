@@ -8,7 +8,7 @@ This a Python based project, in which I have made a program that would read the 
 
 3.Install the necessary dependencies: pip install -r requirements.txt  
 
-      =-=-=-=-=-OR-=-=-=-=-=
+=-=-=-=-=-OR-=-=-=-=-=
       
 1.Download the repo as zip file, then extract in you local system
 
