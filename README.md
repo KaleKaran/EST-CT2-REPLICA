@@ -9,7 +9,7 @@ This a Python based project, in which I have made a program that would read the 
 3.Install the necessary dependencies: pip install -r requirements.txt  
 
 =-=-=-=-=-OR-=-=-=-=-=
-      
+[RECOMMENDED]      
 1.Download the repo as zip file, then extract in your local system
 
 2.Install the necessary dependencies: pip install -r requirements.txt
@@ -18,3 +18,5 @@ This a Python based project, in which I have made a program that would read the 
 If you want to Run a quick test you can run: 20_Q TEST_UI_Ver.py  
 
 And for the whole QB: Whole_QB_UI.py  
+
+Also if you want to give test based on chapter you can run specfic chapters.py file
