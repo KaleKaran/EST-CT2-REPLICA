@@ -10,7 +10,7 @@ This a Python based project, in which I have made a program that would read the 
 
 =-=-=-=-=-OR-=-=-=-=-=
       
-1.Download the repo as zip file, then extract in you local system
+1.Download the repo as zip file, then extract in your local system
 
 2.Install the necessary dependencies: pip install -r requirements.txt
 
