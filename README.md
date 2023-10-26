@@ -15,7 +15,7 @@ This a Python based project, in which I have made a program that would read the 
 1.Download the repo as zip file, then extract in your local system
 
 2.Install the necessary dependencies: pip install -r requirements.txt
-in cmd. (Make sure that you are in the right path)
+\nin cmd. (Make sure that you are in the right path)
 
 ## Guide
 If you want to Run a quick test you can run: 20_Q TEST_UI_Ver.py  
