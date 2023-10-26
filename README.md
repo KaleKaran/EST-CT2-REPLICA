@@ -8,7 +8,7 @@ This a Python based project, in which I have made a program that would read the 
 ```bash
   cd quiz-project
 ```
-3.Install the necessary dependencies: 
+3.Install the necessary dependencies:  (Make sure that you are in cmd in the right path)
 ```bash
   pip install -r requirements.txt
 ```
