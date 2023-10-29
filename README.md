@@ -4,7 +4,7 @@ This a Python based project, in which I have made a program that would read the 
 ## Installation
 1.Clone the repository: (https://github.com/KaleKaran/EST-CT2-REPLICA.git)  
 
-2.Change into the project directory: cd quiz-project  
+2.Change into the project directory:  
 ```bash
   cd quiz-project
 ```
